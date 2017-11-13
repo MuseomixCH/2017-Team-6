@@ -55,7 +55,7 @@ Admittedly, there are far better ways to achieve these aims, and if you would li
 
 ### Authors, contributors and Acknowledgments
 * Original scripts from https://github.com/shiffman/OpenKinect-for-Processing/tree/master/OpenKinect-Processing/examples/Kinect_v1/AveragePointTracking
-* Modified by myself, and at all times using helpful suggestions by Matthieu Borgognon and Christophe Cachin. Thanks!
+* Modified and prepared by @mchaib, and at all times using helpful suggestions by Matthieu Borgognon and Christophe Cachin. Thanks!
 * Audio files were created in both content and preparation by all members of Nature Connect team Museomix 2017. (I am unsure whether or not they are okay with having their names listed here, but if you are one of our member teams, please get in touch if you would like your name listed).
 
 
